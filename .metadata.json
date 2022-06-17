@@ -1,0 +1,18 @@
+[
+  {
+    "package": "BEDMatrix",
+    "oncran": true
+  },
+  {
+    "package": "BGData",
+    "oncran": true
+  },
+  {
+    "package": "LinkedMatrix",
+    "oncran": true
+  },
+  {
+    "package": "symDMatrix",
+    "oncran": true
+  }
+]
