@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "LinkedMatrix",
+    "oncran": true
+  },
+  {
     "package": "symDMatrix",
     "oncran": true
   }
