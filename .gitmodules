@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BEDMatrix"]
 	path = BEDMatrix
 	url = https://github.com/quantgen/bedmatrix
-	shallow = true
-	registered = true
 [submodule "BGData"]
 	path = BGData
 	url = https://github.com/quantgen/bgdata
-	shallow = true
-	registered = true
 [submodule "LinkedMatrix"]
 	path = LinkedMatrix
 	url = https://github.com/quantgen/linkedmatrix
-	shallow = true
-	registered = true
 [submodule "symDMatrix"]
 	path = symDMatrix
 	url = https://github.com/quantgen/symdmatrix
-	shallow = true
-	registered = true
